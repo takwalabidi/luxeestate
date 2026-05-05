@@ -32,9 +32,10 @@ Pour cloner et lancer ce projet localement :
     npm install
     npm run
 ##👩‍💻 Auteur
-Takwa Labidi
 
-Étudiante en 2ème année Licence Mathématiques et Informatique à la Faculté des Sciences de Tunis (FST).
+**Takwa Labidi**
+
+**Étudiante en 2ème année Licence Mathématiques et Informatique à la Faculté des Sciences de Tunis (FST)**
 
 
 
