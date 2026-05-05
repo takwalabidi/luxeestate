@@ -23,7 +23,7 @@ export const PROPERTIES = [
     baths: 2,
     sqft: 2800,
     images: [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&q=80&w=1200",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&q=80&w=1200",
       "https://images.unsplash.com/photo-1560448204-61dc36dc98c8?auto=format&fit=crop&q=80&w=1200",
       "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200"
     ],
@@ -38,9 +38,9 @@ export const PROPERTIES = [
     baths: 3,
     sqft: 3200,
     images: [
-      "https://images.unsplash.com/photo-1500315331616-db4f707c24d1?auto=format&fit=crop&q=80&w=1200",
       "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&q=80&w=1200",
-      "https://images.unsplash.com/photo-1449156001437-3a1445737f31?auto=format&fit=crop&q=80&w=1200"
+      "https://images.unsplash.com/photo-1449156001437-3a1445737f31?auto=format&fit=crop&q=80&w=1200",
+      "https://images.unsplash.com/photo-1500315331616-db4f707c24d1?auto=format&fit=crop&q=80&w=1200"
     ],
     category: "Mansion"
   },
