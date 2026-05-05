@@ -1,4 +1,3 @@
-# LuxeEstate Professional UI
 # 🏰 LuxeEstate Marketplace
 
 Une plateforme immobilière premium conçue pour offrir une expérience de recherche de propriétés de luxe fluide et moderne.
@@ -28,11 +27,20 @@ Pour cloner et lancer ce projet localement :
    ```bash
    git clone [https://github.com/takwalabidi/luxeestate.git](https://github.com/takwalabidi/luxeestate.git)
 
-A premium real estate marketplace with advanced filtering, image galleries, and favoriting capabilities.
+2. **Installer les dépendances et Lancer le serveur de développement**
+    ```bash
+    npm install
+    npm run
+##👩‍💻 Auteur
+Takwa Labidi
 
-## Run locally
+Étudiante en 2ème année Licence Mathématiques et Informatique à la Faculté des Sciences de Tunis (FST).
 
-```bash
-npm install
-npm run dev
+
+
+
+
+
+
+ dev
 ```
